@@ -1,0 +1,170 @@
+[
+    {
+        "id": "01",
+        "name": "Introductory C Programming Specialization",
+        "subTitle": "Learn Essential Programming Fundamentals. Master programming skills to solve complex problems.",
+        "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/84/6b4000ad1111e79ca09d02438dcd55/comps-square.jpg?auto=format%2Ccompress&dpr=2&w=330&h=330&fit=fill&q=25",
+        "ratings": 4.6,
+        "duration": "5 months",
+        "instructor": "Andrew D. Hilton",
+        "description": "This specialization develops strong programming fundamentals for learners who want to solve complex problems by writing computer programs. Through four courses, you will learn to develop algorithms in a systematic way and read and write the C code to implement them. This will prepare you to pursue a career in software development or other computational fields. Successful completion of this Specialization will be considered by admissions as a demonstration of your skill and enhance your master’s application to Duke’s Pratt School of Engineering",
+        "outcomes": [
+            {
+                "title": "Programming Fundamentals",
+                "details": "Programming is an increasingly important skill, whether you aspire to a career in software development, or in other fields. This course is the first in the specialization Introduction to Programming in C, but its lessons extend to any language you might want to learn. This is because programming is fundamentally about figuring out how to solve a class of problems and writing the algorithm, a clear set of steps to solve any problem in its class. This course will introduce you to a powerful problem-solving process—the Seven Steps—which you can use to solve any programming problem. In this course, you will learn how to develop an algorithm, then progress to reading code and understanding how programming concepts relate to algorithms."
+            },
+            {
+                "title": "Writing, Running, and Fixing Code in C",
+                "details": "Building on the course Programming Fundamentals, this course will teach you how to write code by first planning what your program should do—an important approach for novice and professional programmers. You will learn how to compile and run your program, and then how to test and debug it. This course builds on the Seven Steps you have already learned and provides a framework for systematically testing for problems and fixing them, so you can find and fix problems efficiently."
+            },
+            {
+                "title": "Pointers, Arrays, and Recursion",
+                "details": "The third course in the specialization Introduction to Programming in C introduces the programming constructs pointers, arrays, and recursion. Pointers provide control and flexibility when programming in C by giving you a way to refer to the location of other data. Arrays provide a way to bundle data by guaranteeing sequences of data are grouped together. Finally, recursive functions—functions that call themselves—provide an alternative to iteration that are very useful for implementing certain algorithms."
+            },
+            {
+                "title": "Interacting with the System and Managing Memory",
+                "details": "The final course in the specialization Introduction to Programming in C will teach you powerful new programming techniques for interacting with the user and the system and dynamically allocating memory. You will learn more sophisticated uses for pointers, such as strings and multidimensional arrays, as well as how to write programs that read and write files and take input from the user. Learning about dynamic memory allocation will allow your programs to perform complex tasks that will be applied in the final part of the specialization project: a Monte Carlo simulation for calculating poker hand probabilities."
+            }
+        ]
+    },
+    {
+        "id": "02",
+        "name": "Introductory C Programming Specialization",
+        "subTitle": "Learn Essential Programming Fundamentals. Master programming skills to solve complex problems.",
+        "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/84/6b4000ad1111e79ca09d02438dcd55/comps-square.jpg?auto=format%2Ccompress&dpr=2&w=330&h=330&fit=fill&q=25",
+        "ratings": 4.6,
+        "duration": "5 months",
+        "instructor": "Andrew D. Hilton",
+        "description": "This specialization develops strong programming fundamentals for learners who want to solve complex problems by writing computer programs. Through four courses, you will learn to develop algorithms in a systematic way and read and write the C code to implement them. This will prepare you to pursue a career in software development or other computational fields. Successful completion of this Specialization will be considered by admissions as a demonstration of your skill and enhance your master’s application to Duke’s Pratt School of Engineering",
+        "outcomes": [
+            {
+                "title": "Programming Fundamentals",
+                "details": "Programming is an increasingly important skill, whether you aspire to a career in software development, or in other fields. This course is the first in the specialization Introduction to Programming in C, but its lessons extend to any language you might want to learn. This is because programming is fundamentally about figuring out how to solve a class of problems and writing the algorithm, a clear set of steps to solve any problem in its class. This course will introduce you to a powerful problem-solving process—the Seven Steps—which you can use to solve any programming problem. In this course, you will learn how to develop an algorithm, then progress to reading code and understanding how programming concepts relate to algorithms."
+            },
+            {
+                "title": "Writing, Running, and Fixing Code in C",
+                "details": "Building on the course Programming Fundamentals, this course will teach you how to write code by first planning what your program should do—an important approach for novice and professional programmers. You will learn how to compile and run your program, and then how to test and debug it. This course builds on the Seven Steps you have already learned and provides a framework for systematically testing for problems and fixing them, so you can find and fix problems efficiently."
+            },
+            {
+                "title": "Pointers, Arrays, and Recursion",
+                "details": "The third course in the specialization Introduction to Programming in C introduces the programming constructs pointers, arrays, and recursion. Pointers provide control and flexibility when programming in C by giving you a way to refer to the location of other data. Arrays provide a way to bundle data by guaranteeing sequences of data are grouped together. Finally, recursive functions—functions that call themselves—provide an alternative to iteration that are very useful for implementing certain algorithms."
+            },
+            {
+                "title": "Interacting with the System and Managing Memory",
+                "details": "The final course in the specialization Introduction to Programming in C will teach you powerful new programming techniques for interacting with the user and the system and dynamically allocating memory. You will learn more sophisticated uses for pointers, such as strings and multidimensional arrays, as well as how to write programs that read and write files and take input from the user. Learning about dynamic memory allocation will allow your programs to perform complex tasks that will be applied in the final part of the specialization project: a Monte Carlo simulation for calculating poker hand probabilities."
+            }
+        ]
+    },
+    {
+        "id": "03",
+        "name": "Introductory C Programming Specialization",
+        "subTitle": "Learn Essential Programming Fundamentals. Master programming skills to solve complex problems.",
+        "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/84/6b4000ad1111e79ca09d02438dcd55/comps-square.jpg?auto=format%2Ccompress&dpr=2&w=330&h=330&fit=fill&q=25",
+        "ratings": 4.6,
+        "duration": "5 months",
+        "instructor": "Andrew D. Hilton",
+        "description": "This specialization develops strong programming fundamentals for learners who want to solve complex problems by writing computer programs. Through four courses, you will learn to develop algorithms in a systematic way and read and write the C code to implement them. This will prepare you to pursue a career in software development or other computational fields. Successful completion of this Specialization will be considered by admissions as a demonstration of your skill and enhance your master’s application to Duke’s Pratt School of Engineering",
+        "outcomes": [
+            {
+                "title": "Programming Fundamentals",
+                "details": "Programming is an increasingly important skill, whether you aspire to a career in software development, or in other fields. This course is the first in the specialization Introduction to Programming in C, but its lessons extend to any language you might want to learn. This is because programming is fundamentally about figuring out how to solve a class of problems and writing the algorithm, a clear set of steps to solve any problem in its class. This course will introduce you to a powerful problem-solving process—the Seven Steps—which you can use to solve any programming problem. In this course, you will learn how to develop an algorithm, then progress to reading code and understanding how programming concepts relate to algorithms."
+            },
+            {
+                "title": "Writing, Running, and Fixing Code in C",
+                "details": "Building on the course Programming Fundamentals, this course will teach you how to write code by first planning what your program should do—an important approach for novice and professional programmers. You will learn how to compile and run your program, and then how to test and debug it. This course builds on the Seven Steps you have already learned and provides a framework for systematically testing for problems and fixing them, so you can find and fix problems efficiently."
+            },
+            {
+                "title": "Pointers, Arrays, and Recursion",
+                "details": "The third course in the specialization Introduction to Programming in C introduces the programming constructs pointers, arrays, and recursion. Pointers provide control and flexibility when programming in C by giving you a way to refer to the location of other data. Arrays provide a way to bundle data by guaranteeing sequences of data are grouped together. Finally, recursive functions—functions that call themselves—provide an alternative to iteration that are very useful for implementing certain algorithms."
+            },
+            {
+                "title": "Interacting with the System and Managing Memory",
+                "details": "The final course in the specialization Introduction to Programming in C will teach you powerful new programming techniques for interacting with the user and the system and dynamically allocating memory. You will learn more sophisticated uses for pointers, such as strings and multidimensional arrays, as well as how to write programs that read and write files and take input from the user. Learning about dynamic memory allocation will allow your programs to perform complex tasks that will be applied in the final part of the specialization project: a Monte Carlo simulation for calculating poker hand probabilities."
+            }
+        ]
+    },
+    {
+        "id": "04",
+        "name": "Introductory C Programming Specialization",
+        "subTitle": "Learn Essential Programming Fundamentals. Master programming skills to solve complex problems.",
+        "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/84/6b4000ad1111e79ca09d02438dcd55/comps-square.jpg?auto=format%2Ccompress&dpr=2&w=330&h=330&fit=fill&q=25",
+        "ratings": 4.6,
+        "duration": "5 months",
+        "instructor": "Andrew D. Hilton",
+        "description": "This specialization develops strong programming fundamentals for learners who want to solve complex problems by writing computer programs. Through four courses, you will learn to develop algorithms in a systematic way and read and write the C code to implement them. This will prepare you to pursue a career in software development or other computational fields. Successful completion of this Specialization will be considered by admissions as a demonstration of your skill and enhance your master’s application to Duke’s Pratt School of Engineering",
+        "outcomes": [
+            {
+                "title": "Programming Fundamentals",
+                "details": "Programming is an increasingly important skill, whether you aspire to a career in software development, or in other fields. This course is the first in the specialization Introduction to Programming in C, but its lessons extend to any language you might want to learn. This is because programming is fundamentally about figuring out how to solve a class of problems and writing the algorithm, a clear set of steps to solve any problem in its class. This course will introduce you to a powerful problem-solving process—the Seven Steps—which you can use to solve any programming problem. In this course, you will learn how to develop an algorithm, then progress to reading code and understanding how programming concepts relate to algorithms."
+            },
+            {
+                "title": "Writing, Running, and Fixing Code in C",
+                "details": "Building on the course Programming Fundamentals, this course will teach you how to write code by first planning what your program should do—an important approach for novice and professional programmers. You will learn how to compile and run your program, and then how to test and debug it. This course builds on the Seven Steps you have already learned and provides a framework for systematically testing for problems and fixing them, so you can find and fix problems efficiently."
+            },
+            {
+                "title": "Pointers, Arrays, and Recursion",
+                "details": "The third course in the specialization Introduction to Programming in C introduces the programming constructs pointers, arrays, and recursion. Pointers provide control and flexibility when programming in C by giving you a way to refer to the location of other data. Arrays provide a way to bundle data by guaranteeing sequences of data are grouped together. Finally, recursive functions—functions that call themselves—provide an alternative to iteration that are very useful for implementing certain algorithms."
+            },
+            {
+                "title": "Interacting with the System and Managing Memory",
+                "details": "The final course in the specialization Introduction to Programming in C will teach you powerful new programming techniques for interacting with the user and the system and dynamically allocating memory. You will learn more sophisticated uses for pointers, such as strings and multidimensional arrays, as well as how to write programs that read and write files and take input from the user. Learning about dynamic memory allocation will allow your programs to perform complex tasks that will be applied in the final part of the specialization project: a Monte Carlo simulation for calculating poker hand probabilities."
+            }
+        ]
+    },
+    {
+        "id": "05",
+        "name": "Introductory C Programming Specialization",
+        "subTitle": "Learn Essential Programming Fundamentals. Master programming skills to solve complex problems.",
+        "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/84/6b4000ad1111e79ca09d02438dcd55/comps-square.jpg?auto=format%2Ccompress&dpr=2&w=330&h=330&fit=fill&q=25",
+        "ratings": 4.6,
+        "duration": "5 months",
+        "instructor": "Andrew D. Hilton",
+        "description": "This specialization develops strong programming fundamentals for learners who want to solve complex problems by writing computer programs. Through four courses, you will learn to develop algorithms in a systematic way and read and write the C code to implement them. This will prepare you to pursue a career in software development or other computational fields. Successful completion of this Specialization will be considered by admissions as a demonstration of your skill and enhance your master’s application to Duke’s Pratt School of Engineering",
+        "outcomes": [
+            {
+                "title": "Programming Fundamentals",
+                "details": "Programming is an increasingly important skill, whether you aspire to a career in software development, or in other fields. This course is the first in the specialization Introduction to Programming in C, but its lessons extend to any language you might want to learn. This is because programming is fundamentally about figuring out how to solve a class of problems and writing the algorithm, a clear set of steps to solve any problem in its class. This course will introduce you to a powerful problem-solving process—the Seven Steps—which you can use to solve any programming problem. In this course, you will learn how to develop an algorithm, then progress to reading code and understanding how programming concepts relate to algorithms."
+            },
+            {
+                "title": "Writing, Running, and Fixing Code in C",
+                "details": "Building on the course Programming Fundamentals, this course will teach you how to write code by first planning what your program should do—an important approach for novice and professional programmers. You will learn how to compile and run your program, and then how to test and debug it. This course builds on the Seven Steps you have already learned and provides a framework for systematically testing for problems and fixing them, so you can find and fix problems efficiently."
+            },
+            {
+                "title": "Pointers, Arrays, and Recursion",
+                "details": "The third course in the specialization Introduction to Programming in C introduces the programming constructs pointers, arrays, and recursion. Pointers provide control and flexibility when programming in C by giving you a way to refer to the location of other data. Arrays provide a way to bundle data by guaranteeing sequences of data are grouped together. Finally, recursive functions—functions that call themselves—provide an alternative to iteration that are very useful for implementing certain algorithms."
+            },
+            {
+                "title": "Interacting with the System and Managing Memory",
+                "details": "The final course in the specialization Introduction to Programming in C will teach you powerful new programming techniques for interacting with the user and the system and dynamically allocating memory. You will learn more sophisticated uses for pointers, such as strings and multidimensional arrays, as well as how to write programs that read and write files and take input from the user. Learning about dynamic memory allocation will allow your programs to perform complex tasks that will be applied in the final part of the specialization project: a Monte Carlo simulation for calculating poker hand probabilities."
+            }
+        ]
+    },
+    {
+        "id": "06",
+        "name": "Introductory C Programming Specialization",
+        "subTitle": "Learn Essential Programming Fundamentals. Master programming skills to solve complex problems.",
+        "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/84/6b4000ad1111e79ca09d02438dcd55/comps-square.jpg?auto=format%2Ccompress&dpr=2&w=330&h=330&fit=fill&q=25",
+        "ratings": 4.6,
+        "duration": "5 months",
+        "instructor": "Andrew D. Hilton",
+        "description": "This specialization develops strong programming fundamentals for learners who want to solve complex problems by writing computer programs. Through four courses, you will learn to develop algorithms in a systematic way and read and write the C code to implement them. This will prepare you to pursue a career in software development or other computational fields. Successful completion of this Specialization will be considered by admissions as a demonstration of your skill and enhance your master’s application to Duke’s Pratt School of Engineering",
+        "outcomes": [
+            {
+                "title": "Programming Fundamentals",
+                "details": "Programming is an increasingly important skill, whether you aspire to a career in software development, or in other fields. This course is the first in the specialization Introduction to Programming in C, but its lessons extend to any language you might want to learn. This is because programming is fundamentally about figuring out how to solve a class of problems and writing the algorithm, a clear set of steps to solve any problem in its class. This course will introduce you to a powerful problem-solving process—the Seven Steps—which you can use to solve any programming problem. In this course, you will learn how to develop an algorithm, then progress to reading code and understanding how programming concepts relate to algorithms."
+            },
+            {
+                "title": "Writing, Running, and Fixing Code in C",
+                "details": "Building on the course Programming Fundamentals, this course will teach you how to write code by first planning what your program should do—an important approach for novice and professional programmers. You will learn how to compile and run your program, and then how to test and debug it. This course builds on the Seven Steps you have already learned and provides a framework for systematically testing for problems and fixing them, so you can find and fix problems efficiently."
+            },
+            {
+                "title": "Pointers, Arrays, and Recursion",
+                "details": "The third course in the specialization Introduction to Programming in C introduces the programming constructs pointers, arrays, and recursion. Pointers provide control and flexibility when programming in C by giving you a way to refer to the location of other data. Arrays provide a way to bundle data by guaranteeing sequences of data are grouped together. Finally, recursive functions—functions that call themselves—provide an alternative to iteration that are very useful for implementing certain algorithms."
+            },
+            {
+                "title": "Interacting with the System and Managing Memory",
+                "details": "The final course in the specialization Introduction to Programming in C will teach you powerful new programming techniques for interacting with the user and the system and dynamically allocating memory. You will learn more sophisticated uses for pointers, such as strings and multidimensional arrays, as well as how to write programs that read and write files and take input from the user. Learning about dynamic memory allocation will allow your programs to perform complex tasks that will be applied in the final part of the specialization project: a Monte Carlo simulation for calculating poker hand probabilities."
+            }
+        ]
+    }
+]
