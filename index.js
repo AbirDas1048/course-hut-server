@@ -19,6 +19,11 @@ app.get('/course/:id', (req, res) => {
     const course = courses.filter(c => c.id === id);
     res.send(course);
 });
+app.get('/featuredCourse', (req, res) => {
+    const course = courses.filter(c => c.isFeatured === true);
+    res.send(course);
+});
+
 
 app.listen(port, () => {
     console.log(`Course Hut Server listening on port ${port}`)
